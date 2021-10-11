@@ -1,0 +1,50 @@
+code{
+	background: #73bcec;
+	color: #fff;
+	font-size: 2rem;
+	font-family: "Arial";
+	text-align: center;
+	border: 2px solid #060bfa;
+	border-radius: 6px;
+	display: block;
+}
+
+section{
+float: left;
+width: 28%;
+height: 400px;
+border: 2px solid #060bfa;
+border-radius: 6px;
+display: block;
+text-align: center;
+padding: 20px 10px;
+background-color: grey;
+
+}
+
+header, section{
+margin: 0 1.5% 24px 1.5%
+}
+footer{
+
+	clear: both;
+}
+.P1{
+	color: red;
+	background:blue;
+	font-size: 1.5rem;
+}
+.P2{
+	color: purple;
+	background:yellow;
+	font-size: 1.5rem;
+}
+.S1{
+	background-color: yellow;
+}
+.S2{
+	background-color: black
+}
+.S3{
+	background-color: blue
+}

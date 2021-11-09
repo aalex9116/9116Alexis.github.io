@@ -1,0 +1,56 @@
+body
+{
+	margin: 0;
+	padding: 0;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	min-height: 100vh;
+	background: #0f0f0f;
+	font-family: Source Code Pro;
+}
+
+a
+{
+	position: relative;
+	display: inline-block;
+	padding: 15px 30px;
+	color: #00FFC4;
+	text-shadow: 0 0 5px #00FFC4, 0 0 5px #00FFC4;
+	text-transform: uppercase;
+	letter-spacing: 4px;
+	text-decoration: none;
+	font-size: 24px;
+	overflow: hidden;
+	transition: 0.2s;
+	border: 1px solid #00FFC4;
+	box-shadow: 0 0 10px #00FFC4, 0 0 10px #00FFC4, 0 0 15px #00FFC4;
+}
+
+a:hover
+{
+	color: #255784;
+	background: #00FFC4;
+	box-shadow: 0 0 10px #00FFC4, 0 0 40px #00FFC4, 0 0 80px #00FFC4;
+	transition-delay: 0s;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

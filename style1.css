@@ -1,0 +1,174 @@
+.page
+{
+border: 5px solid blue;
+border-radius: 4px;
+width: 780px;
+height: 1300px;
+font-size: 16px;
+font-family: tahoma;
+margin: auto;
+box-shadow: 2px 4px 3px black;
+padding: 20px;
+}
+
+.entete
+{
+height: 250px;
+border: 0px solid black;
+
+padding: 20px;
+
+}
+.info
+{
+border: 0px solid black;
+float:left;
+font-size: 10px;
+padding: 20px;
+
+}
+.photo
+{
+
+height: 250px;
+border: 0px solid black;
+float: right;
+margin: auto;
+}
+
+.Formation
+{
+	margin-top: 0px;
+height: 150px;
+border: 0px solid black;
+
+padding: 20px;
+}
+.date
+{
+
+border: 0px solid black;
+float: left;
+font-size: 13.5px;
+padding: 5px;
+}
+
+.diplome
+{
+
+float: center;
+font-size: 13.5px;
+border: 0px solid black;
+padding: 5px;
+padding-left: 150px;
+
+}
+
+.Langue
+
+{
+	margin-top: 5px;
+height: 100px;
+border: 0px solid black;
+float: center;
+padding: 20px;
+height: 120px;
+}
+
+
+
+.Pays
+
+	{
+	margin-right:10px; 
+border: 0px solid black;
+float: left;
+font-size: 13.5px;
+padding: 5px;
+}
+
+
+.CCC
+{
+
+float: center;
+font-size: 13.5px;
+border: 0px solid black;
+padding: 5px;
+padding-left: 100px;
+
+}
+
+.EX
+{
+	margin-top: 5px;
+height: 100px;
+border: 0px solid black;
+
+padding: 20px;
+}
+.AN
+{
+	margin-right:10px; 
+border: 0px solid black;
+float: left;
+font-size: 13.5px;
+padding: 5px;
+}
+
+
+
+
+.II
+
+{
+
+float: center;
+font-size: 13.5px;
+border: 0px solid black;
+padding: 5px;
+padding-left: 100px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+.li
+{
+	margin-top: 45px;
+height: 115px;
+border: 0px solid black;
+
+padding: 25px;
+}
+.lo
+{
+	margin-right:10px; 
+border: 0px solid black;
+float: left;
+font-size: 13.5px;
+padding: 5px;
+}
+
+
+
+
+.la
+
+{
+
+float: center;
+font-size: 13.5px;
+border: 0px solid black;
+padding: 5px;
+padding-left: 100px;
+
+}

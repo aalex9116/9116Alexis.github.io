@@ -1,0 +1,37 @@
+li
+{
+	list-style: none;
+}
+header{
+	border-bottom: 1px solid darkred;	
+	margin-top: 10px;
+
+}
+.entete{
+text-align: right;
+font-weight: bold;
+
+}
+.title{
+	text-align: center;
+	font-weight: bold;
+	font-size: 20px;
+	color: dark;
+	text-shadow: 2px 4px 3px rgba(0, 0, 0, 0.3);
+	letter-spacing: 3px;
+	text-decoration: underline overline solid blue;
+    background: linear-gradient(to right, darkred, #000);
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+}
+
+span{
+	color: purple;
+}
+strong
+{
+	color: lightyellow;
+}
+body{
+	background-color:  lightgrey;
+}

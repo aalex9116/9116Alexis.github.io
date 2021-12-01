@@ -1,0 +1,36 @@
+{
+	style de liste : aucun ;
+}
+entête{
+	bordure inférieure : 1px bleu royal uni ;	
+	marge supérieure : 10px ;
+
+}
+.entete{
+alignement du texte : à droite ;
+font-weight : gras ;
+
+}
+.Titre{
+	text-align : centre ;
+	font-weight : gras ;
+	taille de la police : 20px ;
+	Couleur bleue;
+	text-shadow : 2px 4px 3px rgba (0, 0, 0, 0,3);
+	espacement des lettres : 3px ;
+	texte-décoration : soulignement surlignement bleu uni ;
+    arrière-plan : gradient linéaire (à droite, bleu royal, #000);
+	-webkit-background-clip : texte ;
+	-webkit-text-fill-color : transparent ;
+}
+
+envergure{
+	la couleur verte;
+}
+fort
+{
+	couleur : bleu foncé ;
+}
+corps{
+	background-color : lightsteelblue ;
+}
